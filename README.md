@@ -1,2 +1,2 @@
 # flexbox-project
-Projeto feito para treinar posicionamento de elementos com flexbox
+Project made to train positioning elements with flexbox
